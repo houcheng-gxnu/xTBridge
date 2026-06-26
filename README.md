@@ -120,8 +120,14 @@ pyinstaller xTBridge.spec
 
 ---
 
+## 相关资源
+
+- **xTB 程序**: [github.com/grimme-lab/xtb](https://github.com/grimme-lab/xtb) — Grimme 组开发的半经验量子化学程序
+- **ORCA 论坛**: [orcaforum.kofo.mpg.de](https://orcaforum.kofo.mpg.de/app.php/portal) — ORCA 官方社区与文档
+
 ## 仓库
 
 - **CNB**: https://cnb.cool/chem311/xTBridge
+- **GitHub**: https://github.com/houcheng-gxnu/xTBridge
 
 > 用 xTB 粗筛 → 导出好结构 → 喂给 Gaussian / ORCA 精算。优化、扫描、过渡态，一个界面搞定。
